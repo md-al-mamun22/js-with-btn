@@ -1,0 +1,16 @@
+#btn-id {
+    font-size: 19px;
+    background-color: rgb(10, 200, 67);
+    border: none;
+    border-radius: 13px;
+    cursor: pointer;
+    padding: 6px 30px;
+}
+
+.btn-cls {
+    border: 2px solid #0d0000;
+    outline: none;
+    border-radius: 10px;
+    padding: 6px 30px;
+    cursor: pointer;
+}
